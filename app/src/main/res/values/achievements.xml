@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <string name="achievement_faster_than_500ms">CgkIl86uypgMEAIQAw</string>
+    <string name="achievement_faster_than_400ms_2_times">CgkIl86uypgMEAIQBA</string>
+    <string name="achievement_faster_than_300ms_3_times">CgkIl86uypgMEAIQBQ</string>
+    <string name="achievement_faster_than_200ms_4_times">CgkIl86uypgMEAIQBg</string>
+    <string name="achievement_faster_than_100ms_5_times">CgkIl86uypgMEAIQBw</string>
+</resources>

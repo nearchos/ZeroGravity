@@ -1,0 +1,14 @@
+<resources>
+
+    <color name="primary">@color/dark_blue</color>
+    <color name="accent">@color/yellow</color>
+    <color name="white">#ffFFFDFE</color>
+    <color name="light_blue">#ff0070B9</color>
+    <color name="dark_blue">#ff0065AC</color>
+    <color name="yellow">#ffFEFD57</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="black">#ff000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="semi_white_overlay">#70ffffff</color>
+
+</resources>

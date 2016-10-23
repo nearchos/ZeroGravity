@@ -1,0 +1,68 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main"
+    android:orientation="vertical"
+    android:scaleType="centerCrop"
+    tools:context=".MainActivity">
+
+    <AbsoluteLayout
+        android:background="@color/transparent"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp">
+
+        <ImageButton
+            android:id="@+id/activity_main_button_start_game"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/play"
+            android:contentDescription="@string/image" />
+
+        <ImageButton
+            android:id="@+id/activity_main_button_mute_unmute"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/mute"
+            android:contentDescription="@string/image" />
+
+        <ImageButton
+            android:id="@+id/activity_main_button_leaderboard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/leaderboard"
+            android:contentDescription="@string/image" />
+
+        <ImageButton
+            android:id="@+id/activity_main_button_facebook"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/facebook"
+            android:contentDescription="@string/image" />
+
+        <ImageButton
+            android:id="@+id/activity_main_button_website"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/website"
+            android:contentDescription="@string/image" />
+
+        <ImageButton
+            android:id="@+id/activity_main_button_about"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/about"
+            android:contentDescription="@string/image" />
+
+    </AbsoluteLayout>
+
+    <TextView
+        android:id="@+id/activity_main_version_text_view"
+        android:text="@string/Version"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/transparent"
+        android:textColor="@color/black" />
+
+</LinearLayout>
