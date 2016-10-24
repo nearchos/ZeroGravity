@@ -1,5 +1,5 @@
 # ZeroGravity
-ZeroGravity is an Android game developed in partnership with the Zero Gravity student team (https://www.facebook.com/0gravityteam).
+ZeroGravity is an Android game developed in partnership with the Zero Gravity [student team](https://www.facebook.com/0gravityteam).
 
 ![Zero Gravity icon][logo-zg]
 
