@@ -23,3 +23,11 @@ The app was developed by the [Inspire Research Center](http://inspirecenter.org)
 [logo-zg]: https://raw.githubusercontent.com/nearchos/ZeroGravity/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "Zero Gravity team"
 [logo-inspire]: https://raw.githubusercontent.com/nearchos/ZeroGravity/master/app/src/main/assets/inspire.png "Inspire Research Center"
 [logo-uclancy]: https://raw.githubusercontent.com/nearchos/ZeroGravity/master/app/src/main/assets/uclan_cy_small.png "UCLan Cyprus"
+
+[privacy](##Privacy)
+
+Zero Gravity takes your privacy very seriously!
+
+The only permissions required by the app is access to your account, which is used solely in the context of integrating with the Google Play Game Center. We also use Google Analytics to trace app usage. That's it.
+
+Also, as an open source project you can browse the code yourself :-)
