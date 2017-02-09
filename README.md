@@ -24,7 +24,7 @@ The app was developed by the [Inspire Research Center](http://inspirecenter.org)
 [logo-inspire]: https://raw.githubusercontent.com/nearchos/ZeroGravity/master/app/src/main/assets/inspire.png "Inspire Research Center"
 [logo-uclancy]: https://raw.githubusercontent.com/nearchos/ZeroGravity/master/app/src/main/assets/uclan_cy_small.png "UCLan Cyprus"
 
-[privacy](##Privacy)
+## Privacy<a name="privacy"></a>
 
 Zero Gravity takes your privacy very seriously!
 
