@@ -15,7 +15,9 @@ The app itself is a played as follows:
 
 The game is integrated with Google Play's game services and the best players are listed in the leaderboard there.
 
+<a href="https://play.google.com/store/apps/details?id=cy.ac.uclancyprus.zg" target="_blank">
 <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="240" title="Get it on Google Play">
+</a>
 
 *Legal attribution: Google Play and the Google Play logo are trademarks of Google Inc.*
 
