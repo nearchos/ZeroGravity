@@ -15,6 +15,8 @@ The app itself is a played as follows:
 
 The game is integrated with Google Play's game services and the best players are listed in the leaderboard there.
 
+You can get and use the latest version of the app straight from [Google Play](https://play.google.com/store/apps/details?id=cy.ac.uclancyprus.zg).
+
 The app was developed by the [Inspire Research Center](http://inspirecenter.org) and [UCLan Cyprus](http://www.uclancyprus.ac.cy) with the students
 
 ![Inspire Research Center][logo-inspire]
