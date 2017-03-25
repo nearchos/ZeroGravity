@@ -15,7 +15,9 @@ The app itself is a played as follows:
 
 The game is integrated with Google Play's game services and the best players are listed in the leaderboard there.
 
-You can get and use the latest version of the app straight from [Google Play](https://play.google.com/store/apps/details?id=cy.ac.uclancyprus.zg).
+<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="240" title="Get it on Google Play">
+
+*Legal attribution: Google Play and the Google Play logo are trademarks of Google Inc.*
 
 The app was developed by the [Inspire Research Center](http://inspirecenter.org) and [UCLan Cyprus](http://www.uclancyprus.ac.cy) with the students
 
