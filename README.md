@@ -21,7 +21,7 @@ The game is integrated with Google Play's game services and the best players are
 
 *Legal attribution: Google Play and the Google Play logo are trademarks of Google Inc.*
 
-The app was developed by the [Inspire Research Center](http://inspirecenter.org) and [UCLan Cyprus](http://www.uclancyprus.ac.cy) with the students
+The app was developed by the [Inspire Research Center](http://inspirecenter.org) and [UCLan Cyprus](http://www.uclancyprus.ac.cy) with the [student team](https://www.facebook.com/0gravityteam) of Zero Gravity.
 
 ![Inspire Research Center][logo-inspire]
 ![UCLan Cyprus][logo-uclancy]
